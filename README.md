@@ -6,6 +6,7 @@ Tenho experiência em ambientes de programação como `Python` e `R` e processam
 
 
 - 🔭 Atualmente estou trabalhando com deteção de extremos climaticos de temperatura e precipitação sobre a América do Sul. Além de trabalhos relacionados a sensoriamento remoto e modelagem climática. 
+
 - 🔭 Trabalho também com ciência de dados:
 
       - Compreensão do problema
