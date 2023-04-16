@@ -17,9 +17,8 @@ Tenho experiência em ambientes de programação como `Python` e `R` e processam
       - Visualização de dados
       - Implementação
  
-- 🌱 Atualmente estou aprendendo sobre a utilização de ferramentas como Docker, Kubernetes e afins.
+- 🌱 Atualmente estou aprendendo sobre a utilização de ferramentas como Docker, Kubernetes e outras tecnologias.
 - 👯 Estou procurando colaborar com soluções sobre análise e modelagem de dados, Mudanças climáticas e sensoriamento remoto.
-- 🤔 Estou procurando ajuda com 
 - 💬 Pergunte-me sobre Mudanças Climáticas, Python...
 - 📫 Como entrar em contato comigo?
 
